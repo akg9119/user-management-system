@@ -1,0 +1,118 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Brinn",
+      "lastName": "Jephcote",
+      "email": "bjephcote0@archive.org",
+      "roles": "Admin",
+      "id": "1"
+    },
+    {
+      "firstName": "Kenneth",
+      "lastName": "MacElholm",
+      "email": "kmacelholm1@sina.com.cn",
+      "roles": "User",
+      "id": "2"
+    },
+    {
+      "firstName": "Kimmy",
+      "lastName": "Penniall",
+      "email": "kpenniall2@biblegateway.com",
+      "roles": "Admin",
+      "id": "3"
+    },
+    {
+      "firstName": "Amity",
+      "lastName": "Guillard",
+      "roles": "User",
+      "email": "aguillard3@blogspot.com"
+    },
+    {
+      "firstName": "Dot",
+      "lastName": "Staterfield",
+      "email": "dstaterfield6@icq.com",
+      "roles": "Admin",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "firstName": "Monika",
+      "lastName": "Noni",
+      "roles": "User",
+      "email": "mnoni7@eventbrite.com"
+    },
+    {
+      "firstName": "Ganny",
+      "lastName": "Cammacke",
+      "email": "gcammacke8@pbs.org",
+      "roles": "Admin",
+      "id": "9"
+    },
+    {
+      "id": "10",
+      "firstName": "William",
+      "roles": "User",
+      "lastName": "Farnish",
+      "email": "wfarnish9@163.com"
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Triggs",
+      "email": "ttriggsa@statcounter.com",
+      "roles": "Admin",
+      "id": "11"
+    },
+    {
+      "firstName": "Ambrose",
+      "lastName": "Khomishin",
+      "email": "akhomishinb@washington.edu",
+      "roles": "Admin",
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "firstName": "Ezmeralda",
+      "lastName": "Darridon",
+      "roles": "User",
+      "email": "edarridonc@army.mil"
+    },
+    {
+      "firstName": "Prue",
+      "lastName": "Cashford",
+      "email": "pcashfordd@printfriendly.com",
+      "roles": "Admin",
+      "id": "14"
+    },
+    {
+      "id": "15",
+      "firstName": "Ogdon",
+      "roles": "User",
+      "lastName": "Pendall",
+      "email": "opendalle@businessweek.com"
+    },
+    {
+      "id": "f81e",
+      "firstName": "andi",
+      "lastName": "amrale",
+      "email": "andi@gmail.com",
+      "roles": "Admin"
+    }
+  ]
+}
